@@ -2,7 +2,7 @@ Hi I'm oq
 
 I can code in JS/TS, Python and Go
 
-I am trying to learn C++
+I currently work on [Dynamite](https://github.com/DynamiteMC/Dynamite)
 
 You can reach out to me on discord (`@oq_x`)
 
