@@ -1,6 +1,6 @@
 Hi I'm oq
 
-I can code in JS/TS, Python and Go
+I can code in Go, JS/TS
 
 I currently work on [Dynamite](https://github.com/DynamiteMC/Dynamite)
 
