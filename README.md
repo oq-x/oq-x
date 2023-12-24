@@ -1,4 +1,4 @@
-Hi I'm oq
+Hi I'm oq, 14 year old from Israel
 
 I can code in Go, JS/TS
 
