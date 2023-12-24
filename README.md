@@ -1,8 +1,8 @@
 Hi I'm oq, 14 year old from Israel
 
-I can code in Go, JS/TS
+I code in Go, JavaScript/TypeScript
 
-I currently work on [Dynamite](https://github.com/DynamiteMC/Dynamite)
+I currently work on [DynamiteMC](https://github.com/DynamiteMC)
 
 You can reach out to me on discord (`@oq_x`)
 
