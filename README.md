@@ -2,7 +2,7 @@ Hi I'm oq, 15 year old from Israel
 
 I code in Go, JavaScript/TypeScript
 
-I currently work on [DynamiteMC](https://github.com/DynamiteMC)
+I currently work on [ZeppelinMC](https://github.com/ZeppelinMC)
 
 You can reach out to me on discord (`@oq_x`)
 
